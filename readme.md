@@ -1,3 +1,5 @@
+**==Project Report==**: [https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf](https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf)
+
 | Sprint # | Date       | Item             |Author            |
 |----------|------------|------------------|------------------|
 | 1        | 2024-02-01 |Gathering Data    |Simon, Nazif      |
