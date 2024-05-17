@@ -1,4 +1,5 @@
-**==Project Report==**: [https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf](https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf)
+**Project Report**: [https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf](https://github.com/bianshuyang/Data_Mining/blob/main/Project_Report.pdf)
+
 
 | Sprint # | Date       | Item             |Author            |
 |----------|------------|------------------|------------------|
